@@ -16,3 +16,6 @@ The modules needed for a complex system to function and how each of them influen
 - [Arduino](https://www.arduino.cc/)
 - Hobby-level electronics
 - Linux
+
+## Want to reach me?
+[Here](https://www.linkedin.com/in/gustav-lindstr%C3%B6m/) is my Linked-in profile
