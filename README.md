@@ -8,7 +8,7 @@ The modules needed for a complex system to function and how each of them influen
 
 ## Functionality I know
 - System simulation
-- [Multiple Object tracking](https://en.wikipedia.org/wiki/Multiple_object_tracking)
+- [Multiple Object tracking](https://en.wikipedia.org/wiki/Multiple_object_tracking) (Currently learning)
 - [Linear Optimization](https://en.wikipedia.org/wiki/Linear_programming)
 - [Sensor fusion](https://en.wikipedia.org/wiki/Sensor_fusion)
 - [Runge-Kutta](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods)
